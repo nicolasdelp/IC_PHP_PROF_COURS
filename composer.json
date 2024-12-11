@@ -27,7 +27,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/Nephty/dbunit.git"
+      "url": "https://github.com/Nephty/dbunit"
     }
   ]
 }
